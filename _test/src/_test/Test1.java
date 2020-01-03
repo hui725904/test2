@@ -5,6 +5,6 @@ public class Test1 {
 
 	double b=0.01;
 		int a=123;
-
+		System.out.println(a);
 	}
 }
